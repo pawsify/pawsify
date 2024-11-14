@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1rem;
+}
+
+section {
+    padding: 1rem;
+}
+
+#pets .pet {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
